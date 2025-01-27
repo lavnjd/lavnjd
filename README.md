@@ -25,6 +25,12 @@
 </div>
 
  <hr/>
+
+ <h2 align="center"> Projects </h2>
+
+ <a href="https://todolavs.netlify.app/">TO DO APP</a>
+
+ <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
