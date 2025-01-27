@@ -28,8 +28,10 @@
 
  <h2 align="center"> Projects </h2>
 
- <a href="https://todolavs.netlify.app/">TO DO APP</a>
+<div align="center">
+     <a href="https://todolavs.netlify.app/">TO DO APP</a>
 
+</div>
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
