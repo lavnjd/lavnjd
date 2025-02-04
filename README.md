@@ -30,7 +30,7 @@
 
 <div align="center">
      <a href="https://todolavs.netlify.app/">TO DO APP</a>
-
+     <a href="https://expenselavs.netlify.app/">EXPENSE TRACKER</a>
 </div>
  <hr/>
  
